@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio - Alfabeto switch", "Exercicio - Alfabeto switch.csproj", "{8366AC31-6463-4216-8B85-D30A84139042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8366AC31-6463-4216-8B85-D30A84139042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8366AC31-6463-4216-8B85-D30A84139042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8366AC31-6463-4216-8B85-D30A84139042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8366AC31-6463-4216-8B85-D30A84139042}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90758D13-F1D5-4FB6-9653-F194E168811D}
+	EndGlobalSection
+EndGlobal
